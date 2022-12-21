@@ -224,6 +224,10 @@ a {
   outline: 3px solid black;
 }
 
+.tool-wrap img:hover {
+  filter: brightness(80%);
+}
+
 .tool-wrap h1 {
   padding-top: 20px;
 }
@@ -235,9 +239,7 @@ a {
   padding-right: 80px;
 }
 
-.mockup-img1:hover {
-  filter: brightness(80%);
-}
+
 /*fadeIn*/
 
 .fade-in {
