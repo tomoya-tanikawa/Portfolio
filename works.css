@@ -235,7 +235,9 @@ a {
   padding-right: 80px;
 }
 
-
+.mockup-img1:hover {
+  filter: brightness(80%);
+}
 /*fadeIn*/
 
 .fade-in {
